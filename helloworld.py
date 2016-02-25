@@ -1,16 +1,17 @@
 +#Meralys Viruet
- +welcome = 'Hello Friend please select a language'
+
+ +welcome = 'Hello! please select a language'
  +print welcome
  +print '1. Spanish'
  +print '2. Italian'
  +print '3. Portuguese
- +lang = input() 
- +1 == ('Hola')
- +2 == ('Ciao')
- +3 == ('Ola')
- +if lang == ('1'):
+ #line 3-7 greet the user and show the languages
+ +language = input() 
+ #line 9 ask for imput and set a word to represent the imput
+ +if language == ('1'):
  +  print('Hola')
- +if lang == ('2'):
+ +else langguage == ('2'):
  +  print('Ciao')
- +if lang == ('3')
+ +else if language == ('3')
  +  print('Ola') 
+ #line 11-16 describe de 3 imputs and the posible results
