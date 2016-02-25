@@ -1,10 +1,16 @@
-# replace the contents of this comment with your full name
-
-# write a program that:
-# 1. greets the user in English
-# 2. asks the user to choose from 1 of 3 spoken languages (pick your favorite languages!) 
-# 3. displays the greeting in the chosen language
-# 4. exits
-
-# make sure that your code contains comments explaining your logic!
-
++#Meralys Viruet
+ +welcome = 'Hello Friend please select a language'
+ +print welcome
+ +print '1. Spanish'
+ +print '2. Italian'
+ +print '3. Portuguese
+ +lang = input() 
+ +1 == ('Hola')
+ +2 == ('Ciao')
+ +3 == ('Ola')
+ +if lang == ('1'):
+ +  print('Hola')
+ +if lang == ('2'):
+ +  print('Ciao')
+ +if lang == ('3')
+ +  print('Ola') 
